@@ -7,3 +7,5 @@ Ubicación: mapa de Google
 Agregamos animaciones
 Finalizando animaciones
 Animaciones implementadas
+formulario
+recordar usuario
