@@ -2,3 +2,8 @@ Calle Falsa 123
 Ciudad
 Tel: 123456789
 Ubicación: mapa de Google
+
+
+Agregamos animaciones
+Finalizando animaciones
+Animaciones implementadas
